@@ -3,7 +3,7 @@
 
 title: Joana Lafuente
 tab__title: Joana Lafuente - Illustration | Painting | Coloring
-meta__title: Joana Laufnete – Illustration | Painting | Coloring
+meta__title: Joana Lafuente – Illustration | Painting | Coloring
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Joana Lafuente – Illustration | Painting | Coloring
 
@@ -57,23 +57,23 @@ projects__settings:
 #-------------------------------
 # Testimonials Section
 
-testimonial__title: My Happy <span class="text-span">Clients</span> # Add a 'text-span' class to highlight text.
+#testimonial__title: My Happy <span class="text-span">Clients</span> # Add a 'text-span' class to highlight text.
 
-testimonial-items:
-  - name: "Levi Robertson"
-    image: "/images/testimonial-levi.jpeg"
-    designation : "Host of JAMstack Phoenix"
-    content : "The Angular Tutorial along with Adam’s advice has completely changed my career..."
+#testimonial-items:
+#  - name: "Levi Robertson"
+#    image: "/images/testimonial-levi.jpeg"
+#    designation : "Host of JAMstack Phoenix"
+#    content : "The Angular Tutorial along with Adam’s advice has completely changed my career..."
 
-  - name: "Kaeside Iwuagwu"
-    image: "/images/testimonial-kaeside.jpeg"
-    designation : "Implementation Manager at WebMD"
-    content : "Adam has a knack for breaking down complex topics and keeps learning Angular fun."
+#  - name: "Kaeside Iwuagwu"
+#    image: "/images/testimonial-kaeside.jpeg"
+#    designation : "Implementation Manager at WebMD"
+#    content : "Adam has a knack for breaking down complex topics and keeps learning Angular fun."
 
-  - name: "Matthew Knowles"
-    image: "/images/testimonial-matthew.jpeg"
-    designation : "Software Engineer"
-    content : "If you are using Angular in a professional setting I can not recommend The Angular Tutorial highly enough."
+#  - name: "Matthew Knowles"
+#    image: "/images/testimonial-matthew.jpeg"
+#    designation : "Software Engineer"
+#    content : "If you are using Angular in a professional setting I can not recommend The Angular Tutorial highly enough."
 
   # - name: "Julie Arnold"
   #   image: "/images/client-4.jpg"
