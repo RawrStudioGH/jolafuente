@@ -27,7 +27,7 @@ cta__button__text: Book now!
 cta__button_url: 'https://calendly.com/atom-morgan'
 
 # Add global cover image (This field adds a background to the top and bottom of the site.)
-cover__image: '/jolafuente/images/cover-image.jpg'
+#cover__image: '/jolafuente/images/cover-image.jpg'
 
 
 #-------------------------------
