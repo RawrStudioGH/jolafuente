@@ -39,8 +39,8 @@ author:
   bio: "
     Illustration | Painting | Coloring<br/><br/>
     "
-  image: '../images/profile_600.png'
-  avatar: '../images/profile_600.png'
+  image: 'jolafuente/images/profile_600.png'
+  avatar: 'jolafuente/images/profile_600.png'
   button__text: See my work
 
 
