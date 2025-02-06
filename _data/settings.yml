@@ -27,7 +27,7 @@ cta__button__text: Book now!
 cta__button_url: 'https://calendly.com/atom-morgan'
 
 # Add global cover image (This field adds a background to the top and bottom of the site.)
-cover__image: '/images/cover-image.jpg'
+cover__image: '/jolafuente/images/cover-image.jpg'
 
 
 #-------------------------------
@@ -39,8 +39,8 @@ author:
   bio: "
     Illustration | Painting | Coloring<br/><br/>
     "
-  image: 'jolafuente/images/profile_600.png'
-  avatar: 'jolafuente/images/profile_600.png'
+  image: '/jolafuente/images/profile_600.png'
+  avatar: '/jolafuente/images/profile_600.png'
   button__text: See my work
 
 
@@ -48,7 +48,7 @@ author:
 # Projects Settings
 
 projects__settings:
-  projects__title: Latest <span class="text-span">Work</span> # Add a 'text-span' class to highlight text.
+  projects__title: <span class="text-span">Work</span> # Add a 'text-span' class to highlight text.
   projects__description: "
     Whether you need a personal website or a fully featured web app, I can help you meet your business needs.
     "
@@ -84,18 +84,18 @@ testimonial-items:
 #-------------------------------
 # Blog Section
 
-blog__settings:
-  blog__title: Recent <span class="text-span">Blog</span> Posts # Add a 'text-span' class to highlight text.
-  blog__description:
+#blog__settings:
+#  blog__title: Recent <span class="text-span">Blog</span> Posts # Add a 'text-span' class to highlight text.
+#  blog__description:
 
 
 #-------------------------------
 # Contact Settings
 
 contact__settings:
-  contact__email: atom.morgan@gmail.com # Add your email for contact form
+  contact__email: joana.lafuente@gmail.com # Add your email for contact form
   contact__title: <span class="text-span">Get</span> in touch # Add a title to your form
-  contact__description: Need some work? I'm your guy. # Add a description to your form
+  contact__description: Message. # Add a description to your form
 
 # NOTE
 # Avenco comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
@@ -103,21 +103,21 @@ contact__settings:
 
 #-------------------------------
 # Newsletter Settings
-mailchimp__settings:
-  mailchimp__title: <span class="text-span">Join</span> my mailing list # Add your title
-  mailchimp__text: " 'Get inspiration, updates and', 'cool stuff about web development!' " # Add descriptions to the form by wrapping the text in single quotes. If you want to use more than one sentence, be sure to separate them with a comma.
-  mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
-  mailchimp__button__text: Subscribe # Add your button text
+#mailchimp__settings:
+#  mailchimp__title: <span class="text-span">Join</span> my mailing list # Add your title
+#  mailchimp__text: " 'Get inspiration, updates and', 'cool stuff about web development!' " # Add descriptions to the form by wrapping the text in single quotes. If you want to use more than one sentence, be sure to separate them with a comma.
+#  mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+#  mailchimp__button__text: Subscribe # Add your button text
 
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: # add your shortname for Disqus Comment. For example anvodstudio-demo
+#disqus-identifier: # add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------
 # Google Analytics
-google-analytics: UA-63422466-1 # Add your identifier. For example UA-99631805-1.
+# google-analytics: UA-63422466-1 # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------
