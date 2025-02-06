@@ -1,11 +1,11 @@
 #-------------------------------
 # Site Settings
 
-title: Adam
-tab__title: Adam Morgan - Web Developer and Designer
-meta__title: Adam Morgan – Full Stack Software Engineer and Web Designer
+title: Joana
+tab__title: Joana Lafuente - Illustration | Painting | Coloring
+meta__title: Joana Laufnete – Illustration | Painting | Coloring
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Adam Morgan – Hire me to design and build your next website!
+description: Joana Lafuente – Illustration | Painting | Coloring
 
 menu__settings:
   menu__items:
@@ -13,12 +13,8 @@ menu__settings:
       url: '/'
     - title: 'Projects'
       url: '/projects/'
-    - title: 'Blog'
-      url: '/blog/'
     - title: 'About'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
     # - title: 'Pages'
     #   submenu:
     #   - url: '/about'
@@ -38,16 +34,16 @@ cover__image: '/images/cover-image.jpg'
 # Author Settings
 
 author:
-  name: Adam Morgan
-  title: Hello I’m Adam Morgan
+  name: Joana Lafuente
+  title: Hello I’m Joana Lafuente
   # bio: Art Director & Graphic Designer based in Australia, crafting beautiful and functional websites and mobile apps. When I’m not working, I’m probably listening to relaxing music or traveling somewhere.
   bio: "
     I'm a freelance Web Designer and Full-Stack Developer based in Atlanta.
     I enjoy building everything from small business sites to interactive web apps.<br/><br/>
     If you're interested you can schedule a preliminary call with me here.
     "
-  image: '/images/adam-full.png'
-  avatar: '/images/adam-avatar.jpeg'
+  image: '/images/profile_600.png'
+  avatar: '/images/profile_600.png'
   button__text: See my work
 
 
