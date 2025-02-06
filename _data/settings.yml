@@ -57,7 +57,8 @@ projects__settings:
 #-------------------------------
 # Testimonials Section
 
-#testimonial__title: My Happy <span class="text-span">Clients</span> # Add a 'text-span' class to highlight text.
+#testimonial__title: My Happy <span class="text-span">Clients</span> 
+# Add a 'text-span' class to highlight text.
 
 #testimonial-items:
 #  - name: "Levi Robertson"
@@ -85,7 +86,8 @@ projects__settings:
 # Blog Section
 
 #blog__settings:
-#  blog__title: Recent <span class="text-span">Blog</span> Posts # Add a 'text-span' class to highlight text.
+#  blog__title: Recent <span class="text-span">Blog</span> Posts 
+# Add a 'text-span' class to highlight text.
 #  blog__description:
 
 
