@@ -28,10 +28,11 @@
   line-height: 26px;
   font-weight: 900;
   text-transform: uppercase;
+  color: $primary-color; /* color change to pink*/
 
-  &:hover {
+  /*&:hover {
     color: $primary-color;
-  }
+  }*/
 }
 
 .logo__image {
@@ -204,9 +205,9 @@
     .nav__link {
       position: relative;
       padding-bottom: 10px;
-      font-size: 16px;
+      font-size: 20px;
       line-height: 1;
-      font-weight: 800;
+      font-weight: 200;
       cursor: pointer;
 
       &:hover {

@@ -116,7 +116,7 @@ library.add(fas);
   ],
   imports: [
     BrowserModule,
-    FontAwesomeModule // Add this
+    AwesomeModule // Add this
   ],
   providers: [],
   bootstrap: [AppComponent]

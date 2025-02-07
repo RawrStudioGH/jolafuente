@@ -19,7 +19,7 @@
             {% for project in site.projects reversed limit:15 %}
             <article class="project col col-4 col-d-6 col-t-12">
               <div class="project__content">
-                <a href="/jolafuente{{ project.url }}" class="project__image">
+                <a href="{{ project.url }}" class="project__image">
                   <img class="lazy" data-src="{{ project.image }}" alt="{{ project.title }}">
                 </a>
                 <div class="project__info">

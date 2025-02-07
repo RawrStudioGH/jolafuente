@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 
-title: Joana Lafuente
+title: '_JOANA LAFUENTE'
 tab__title: Joana Lafuente - Illustration | Painting | Coloring
 meta__title: Joana Lafuente – Illustration | Painting | Coloring
 logo: # You can add own logo. For example '/images/logo.png'.
@@ -9,11 +9,11 @@ description: Joana Lafuente – Illustration | Painting | Coloring
 
 menu__settings:
   menu__items:
-    - title: 'Home'
+    - title: '_works'
       url: '/'
-    - title: 'Projects'
-      url: '/projects/'
-    - title: 'About'
+    #- title: 'Projects'
+    #  url: '/projects/'
+    - title: '_about * contact'
       url: '/about'
     # - title: 'Pages'
     #   submenu:
@@ -35,22 +35,22 @@ menu__settings:
 
 author:
   name: Joana Lafuente
-  title: Joana Lafuente
+  title: Joana Lafuente's Portfolio
   bio: "
     Illustration | Painting | Coloring<br/><br/>
     "
-  image: '/jolafuente/images/profile_600.png'
-  avatar: '/jolafuente/images/profile_600.png'
-  button__text: See my work
+  image: '/images/portfolio/Transformers colors/TF_Colors_18.jpg'
+  avatar: '/images/profile_600.png'
+  button__text: Check my works
 
 
 #-------------------------------
 # Projects Settings
 
 projects__settings:
-  projects__title: <span class="text-span">Work</span> # Add a 'text-span' class to highlight text.
+  projects__title: <span class="text-span">Works</span> # Add a 'text-span' class to highlight text.
   projects__description: "
-    Whether you need a personal website or a fully featured web app, I can help you meet your business needs.
+    Here's some of the featured projects that I've worked on through the years.
     "
 
 
@@ -128,9 +128,9 @@ contact__settings:
 # Example of adding a new link to the footer - {icon: "ion-logo-facebook", link: "https://facebook.com"}
 # Other icons can be found at https://ionicons.com/v4/
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com/atommorgan"}
-- {icon: "ion-logo-github", link: "https://github.com/atom-morgan"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com/adamjmorgan"}
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/joanalafuente/"}
+- {icon: "ion-logo-tumblr", link: "https://www.tumblr.com/coffeewmilk"}
+- {icon: "ion-logo-instagram", link: "https://www.instagram.com/joanalafuente.art/"}
 # - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
 # - {icon: "ion-logo-codepen", link: "https://codepen.io"}
 # - {icon: "ion-logo-vimeo", link: "https://vimeo.com"}
