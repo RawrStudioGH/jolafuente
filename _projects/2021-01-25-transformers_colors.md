@@ -39,4 +39,5 @@ image: /images/portfolio/Transformers colors/TF_Colors_18.jpg
 * <a href="#secao-destino">Line-art by Marcelo Matere</a>
 * <a href="#secao-destino">Line-art by Casey Coller</a>
 * <a href="#secao-destino">Line-art by Alex Milne</a>
+* <a href="#secao-destino">Line-art by Nick Roche</a>
 
