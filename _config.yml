@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 baseurl: "/jolafuente" # the subpath of your site, e.g. /blog
-url: "https://rawrstudiogh.github.io/jolafuente/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rawrstudiogh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
