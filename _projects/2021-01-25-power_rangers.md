@@ -8,15 +8,15 @@ image: /images/portfolio/Power Rangers/PowerRangers_2.jpg
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/portfolio/Power Rangers/PowerRangers_1.jpg" alt="Project">
-    <img src="/images/portfolio/Power Rangers/PowerRangers_3.jpg" alt="Project">
-    <img src="/images/portfolio/Power Rangers/PowerRangers_4.jpg" alt="Project">
-    <img src="/images/portfolio/Power Rangers/PowerRangers_7.jpg" alt="Project">
-    <img src="/images/portfolio/Power Rangers/PowerRangers_8.jpg" alt="Project">
-    <img src="/images/portfolio/Power Rangers/PowerRangers_9.jpg" alt="Project">
-    <img src="/images/portfolio/Power Rangers/PowerRangers_2.jpg" alt="Project">
-    <img src="/images/portfolio/Power Rangers/PowerRangers_5.jpg" alt="Project">
-    <img src="/images/portfolio/Power Rangers/PowerRangers_6.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Power Rangers/PowerRangers_1.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Power Rangers/PowerRangers_3.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Power Rangers/PowerRangers_4.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Power Rangers/PowerRangers_7.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Power Rangers/PowerRangers_8.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Power Rangers/PowerRangers_9.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Power Rangers/PowerRangers_2.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Power Rangers/PowerRangers_5.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Power Rangers/PowerRangers_6.jpg" alt="Project">
   </div>
   <em>©Hasbro & Renegade Studios & Boom Studios.</em>
 </div>

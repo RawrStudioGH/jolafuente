@@ -8,11 +8,11 @@ image: /images/portfolio/Adventure Time/AT_3.jpg
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/portfolio/Adventure Time/AT_1.jpg" alt="Project">
-    <img src="/images/portfolio/Adventure Time/AT_2.jpg" alt="Project">
-    <img src="/images/portfolio/Adventure Time/AT_3.jpg" alt="Project">
-    <img src="/images/portfolio/Adventure Time/AT_4.jpg" alt="Project">
-    <img src="/images/portfolio/Adventure Time/AT_5.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Adventure Time/AT_1.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Adventure Time/AT_2.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Adventure Time/AT_3.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Adventure Time/AT_4.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Adventure Time/AT_5.jpg" alt="Project">
   </div>
   <em>©Cartoon Network/Boom Studios</em>
 </div>

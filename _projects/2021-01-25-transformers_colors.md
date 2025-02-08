@@ -8,26 +8,26 @@ image: /images/portfolio/Transformers colors/TF_Colors_18.jpg
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/portfolio/Transformers colors/TF_Colors_1.jpg" alt="Project">
-    <img src="/images/portfolio/Transformers colors/TF_Colors_2.jpg" alt="Project">
-    <img src="/images/portfolio/Transformers colors/TF_Colors_3.jpg" alt="Project">
-    <img src="/images/portfolio/Transformers colors/TF_Colors_4.jpg" alt="Project">
-    <img src="/images/portfolio/Transformers colors/TF_Colors_5.jpg" alt="Project">
-    <img src="/images/portfolio/Transformers colors/TF_Colors_6.jpg" alt="Project">
-    <img src="/images/portfolio/Transformers colors/TF_Colors_7.jpg" alt="Project">
-    <img src="/images/portfolio/Transformers colors/TF_Colors_8.jpg" alt="Project">
-    <img src="/images/portfolio/Transformers colors/TF_Colors_9.jpg" alt="Project">
-    <img src="/images/portfolio/Transformers colors/TF_Colors_10.jpg" alt="Project">
-    <img src="/images/portfolio/Transformers colors/TF_Colors_11.jpg" alt="Project">
-    <img src="/images/portfolio/Transformers colors/TF_Colors_12.jpg" alt="Project">
-    <img src="/images/portfolio/Transformers colors/TF_Colors_13.jpg" alt="Project">
-    <img src="/images/portfolio/Transformers colors/TF_Colors_14.jpg" alt="Project">
-    <img src="/images/portfolio/Transformers colors/TF_Colors_15.jpg" alt="Project">
-    <img src="/images/portfolio/Transformers colors/TF_Colors_16.jpg" alt="Project">
-    <img src="/images/portfolio/Transformers colors/TF_Colors_17.jpg" alt="Project">
-    <img src="/images/portfolio/Transformers colors/TF_Colors_19.jpg" alt="Project">
-    <img src="/images/portfolio/Transformers colors/TF_Colors_20.jpg" alt="Project">
-    <img src="/images/portfolio/Transformers colors/TF_Colors_18.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Transformers colors/TF_Colors_1.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Transformers colors/TF_Colors_2.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Transformers colors/TF_Colors_3.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Transformers colors/TF_Colors_4.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Transformers colors/TF_Colors_5.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Transformers colors/TF_Colors_6.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Transformers colors/TF_Colors_7.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Transformers colors/TF_Colors_8.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Transformers colors/TF_Colors_9.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Transformers colors/TF_Colors_10.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Transformers colors/TF_Colors_11.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Transformers colors/TF_Colors_12.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Transformers colors/TF_Colors_13.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Transformers colors/TF_Colors_14.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Transformers colors/TF_Colors_15.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Transformers colors/TF_Colors_16.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Transformers colors/TF_Colors_17.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Transformers colors/TF_Colors_19.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Transformers colors/TF_Colors_20.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Transformers colors/TF_Colors_18.jpg" alt="Project">
   </div>
   <em>©Hasbro & IDW Publishing.</em>
 </div>

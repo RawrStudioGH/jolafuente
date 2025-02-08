@@ -8,12 +8,12 @@ image: /images/portfolio/Steven Universe/StevenUniverse5.jpg
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/portfolio/Steven Universe/StevenUniverse1.jpg" alt="Project">
-    <img src="/images/portfolio/Steven Universe/StevenUniverse2.jpg" alt="Project">
-    <img src="/images/portfolio/Steven Universe/StevenUniverse3.jpg" alt="Project">
-    <img src="/images/portfolio/Steven Universe/StevenUniverse4.jpg" alt="Project">
-    <img src="/images/portfolio/Steven Universe/StevenUniverse5.jpg" alt="Project">
-    <img src="/images/portfolio/Steven Universe/StevenUniverse6.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Steven Universe/StevenUniverse1.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Steven Universe/StevenUniverse2.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Steven Universe/StevenUniverse3.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Steven Universe/StevenUniverse4.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Steven Universe/StevenUniverse5.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Steven Universe/StevenUniverse6.jpg" alt="Project">
   </div>
   <em>©Cartoon Network/Boom Studios</em>
 </div>

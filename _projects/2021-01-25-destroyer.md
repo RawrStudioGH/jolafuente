@@ -8,10 +8,10 @@ image: /images/portfolio/Destroyer/Destroyer_3.jpg
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/portfolio/Destroyer/Destroyer_1.jpg" alt="Project">
-    <img src="/images/portfolio/Destroyer/Destroyer_2.jpg" alt="Project">
-    <img src="/images/portfolio/Destroyer/Destroyer_3.jpg" alt="Project">
-    <img src="/images/portfolio/Destroyer/Destroyer_4.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Destroyer/Destroyer_1.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Destroyer/Destroyer_2.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Destroyer/Destroyer_3.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Destroyer/Destroyer_4.jpg" alt="Project">
   </div>
   <em>©Boom Studios.</em>
 </div>

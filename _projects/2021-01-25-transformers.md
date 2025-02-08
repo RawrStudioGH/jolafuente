@@ -8,14 +8,14 @@ image: /images/portfolio/Transformers/Transformers_1.jpg
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/portfolio/Transformers/Transformers_1.jpg" alt="Project">
-    <img src="/images/portfolio/Transformers/Transformers_2.jpg" alt="Project">
-    <img src="/images/portfolio/Transformers/Transformers_3.jpg" alt="Project">
-    <img src="/images/portfolio/Transformers/Transformers_4.jpg" alt="Project">
-    <img src="/images/portfolio/Transformers/Transformers_5.jpg" alt="Project">
-    <img src="/images/portfolio/Transformers/Transformers_6.jpg" alt="Project">
-    <img src="/images/portfolio/Transformers/Transformers_7.jpg" alt="Project">
-    <img src="/images/portfolio/Transformers/Transformers_8.jpg" alt="Project" id="secao-destino">
+    <img src="{{site.baseurl}}/images/portfolio/Transformers/Transformers_1.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Transformers/Transformers_2.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Transformers/Transformers_3.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Transformers/Transformers_4.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Transformers/Transformers_5.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Transformers/Transformers_6.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Transformers/Transformers_7.jpg" alt="Project">
+    <img src="{{site.baseurl}}/images/portfolio/Transformers/Transformers_8.jpg" alt="Project" id="secao-destino">
   </div>
   <em>©Hasbro & IDW Publishing.</em>
 </div>
